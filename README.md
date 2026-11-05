@@ -1,4 +1,4 @@
-# dflow-sh
+# dFlow
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-dflow-sh is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://dflow.sh/
+dFlow provides a platform to deploy applications and databases in a unified environment, handling infrastructure management so developers can focus on building products. Their service automates provisioning, scaling, and monitoring across cloud providers, offering a seamless experience for modern cloud-native workloads. With a focus on reliability and developer productivity, dFlow aims to simplify the complexities of infrastructure while delivering robust performance and security.
+
+**Areas:** Cloud · Infrastructure · Platform · Deployment · Automation
+
+## dFlow on APIs.io
+
+Everything profiled for dFlow is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dflow-sh/](https://apis.io/providers/dflow-sh/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [dFlow API Rules](https://apis.io/rules/dflow-sh/dflow-sh-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dflow Sh Authentication](https://apis.io/security/dflow-sh/dflow-sh-authentication/)
+- [Dflow Sh Domain Security](https://apis.io/security/dflow-sh/dflow-sh-domain-security/)
+- [Dflow Sh Trust Center](https://apis.io/security/dflow-sh/dflow-sh-trust-center/)
+- [Dflow Sh Vulnerability Disclosure](https://apis.io/security/dflow-sh/dflow-sh-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Dflow Sh Plans Pricing](https://apis.io/plans/dflow-sh/dflow-sh-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dflow.sh/)
+- [Documentation](https://docs.dflow.sh/)
+- [Pricing](https://dflow.sh/pricing)
+- [Changelog](https://dflow.sh/changelog)
+- [Blog](https://dflow.sh/blog)
+- [Compliance](https://trust.dflow.sh/)
+- [Terms of service](https://dflow.sh/terms)
+- [Privacy policy](https://dflow.sh/privacy)
+- [GitHub](https://github.com/dflow-sh)
+
+## API Evangelist rating
+
+**Kin Score 43.3** — developing · rubric 0.27.0 · scored 2026-11-05
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 75.8 |
+
+**Agent readiness 27.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dflow-sh/](https://apis.io/providers/dflow-sh/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for dFlow: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dflow-sh/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
